@@ -1,9 +1,9 @@
 import React from "react";
 import { View, StatusBar } from "react-native";
-import styles from "./styles";
-import Row from "./Row";
-import Column from "./Column";
-import Box from "./box";
+import styles from "./styles.jsx";
+import Row from "./Row.jsx";
+import Column from "./Column.jsx";
+import Box from "./box.jsx";
 
 // const boxes = new Array(50).fill(null).map((v, i) => i + 1);
 
